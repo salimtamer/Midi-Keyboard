@@ -11,3 +11,4 @@ And then your actual MIDI keys will use capacitive touch which just uses exposed
 <img width="866" height="790" alt="image" src="https://github.com/user-attachments/assets/f62e42f1-932d-4682-b507-59371b5355c8" />
 <img width="922" height="782" alt="image" src="https://github.com/user-attachments/assets/1f83a3e1-c243-49e8-bd94-f65ef87a68e7" />
 <img width="694" height="798" alt="image" src="https://github.com/user-attachments/assets/232c0060-955e-48db-b3c8-695c7cc89664" />
+https://lapse.hackclub.com/timelapse/9ajmjLv8etyx
